@@ -4,7 +4,7 @@ import projectImg2 from '../../assets/portfolio/transforproj.png';
 import projectImg3 from '../../assets/portfolio/password.png';
 import projectImg4 from '../../assets/portfolio/quiz.png';
 import projectImg5 from '../../assets/portfolio/budgettracker.png';
-import projectImg6 from '../../assets/portfolio/screenshot.png';
+//import projectImg6 from '../../assets/portfolio/screenshot.png';
 
 function Portfolio() {
     return (

@@ -45,6 +45,12 @@ function Resume() {
                     <li>
                         Sequelize
                     </li>
+                    <li>
+                        MongoDB
+                    </li>
+                    <li>
+                        React
+                    </li>
                 </ul>
                 <h3>Experience With:</h3>
                 <ul className="resume-list">
@@ -57,6 +63,12 @@ function Resume() {
                     </li>
                     <li>
                         Responsive Design
+                    </li>
+                    <li>
+                        PWA's
+                    </li>
+                    <li>
+                        MERN Stack
                     </li>
 
                 </ul>
