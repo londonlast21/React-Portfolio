@@ -21,7 +21,7 @@ function Nav(props) {
                 </li>
         
                 <li className="nav-item">
-                    <span className="option" onClick={() => props.setPage("Contact")}>Contact</span>
+                    <span className="option" onClick={() => props.setPage("ContactForm")}>Contact</span>
                 </li>
 
                 <li className="nav-item">
